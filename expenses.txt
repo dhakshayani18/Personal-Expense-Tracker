@@ -1,0 +1,9 @@
+===== EXPENSE SUMMARY =====
+Monthly Income: 70000.0
+
+Expense Details:
+wifi: 2000.0
+mobile: 500.0
+emi: 10000.0
+Total Expenses: 12500.0
+Remaining Balance: 57500.0
